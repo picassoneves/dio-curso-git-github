@@ -12,7 +12,7 @@ Introduzir ao versionamento de código com Git e GitHub.
 
 
 ## Percurso
-O meu percurso até aqui foi de aprender python com Gustavo Guanabara (em andamento) e treinar com a dio para tornar-me um desenvolvedor backend. Estou lendo, buscando de tudo para realizar meu grande sonho de ser programador!
+**O meu percurso até aqui foi de aprender python com Gustavo Guanabara (em andamento) e treinar com a dio para tornar-me um desenvolvedor backend. Estou lendo, buscando de tudo para realizar meu grande sonho de ser programador!**
 
 
 ## Referências e estudos
@@ -22,4 +22,6 @@ O meu percurso até aqui foi de aprender python com Gustavo Guanabara (em andame
 
 # Sendo realizado com esforço e dedicação por: 
 
-[Github Picasso Neves (Victor Neves)](https://github.com/picassoneves)
+- [Github Picasso Neves (Victor Neves)](https://github.com/picassoneves)
+
+- [Meu instagram - Picasso Neves](www.instagram.com/picassoneves)
