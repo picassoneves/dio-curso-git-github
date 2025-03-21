@@ -27,10 +27,12 @@ O meu percurso até aqui foi de aprender python com Gustavo Guanabara (em andame
 
 # Sendo realizado com esforço e dedicação por: 
 
-[![github](https://github.com/picassoneves)
+[!github](https://github.com/picassoneves)
+
+# Meu instagram!
 
 <a href="https://instagram.com/picassoneves" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="10" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
 </a>
 
   :shipit:
