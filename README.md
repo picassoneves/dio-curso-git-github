@@ -24,4 +24,7 @@ Introduzir ao versionamento de código com Git e GitHub.
 
 - [Github Picasso Neves (Victor Neves)](https://github.com/picassoneves)
 
-- [Meu instagram - Picasso Neves](www.instagram.com/picassoneves)
+- [Instagram visite:](www.instagram.com/picassoneves)
+
+:shipit:
+
