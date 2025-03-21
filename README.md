@@ -30,10 +30,15 @@ O meu percurso até aqui foi de aprender python com Gustavo Guanabara (em andame
 [!github](https://github.com/picassoneves)
 
 # Meu instagram!
+# Meu github!
 
-<a href="https://instagram.com/picassoneves" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
-</a>
+  <p align="center">
+  <a href="https://github.com/picassoneves" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" />
+  </a>
+  <a href="https://instagram.com/picassoneves" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
+  </a>
+</p>
 
-  :shipit:
-
+ :shipit:
