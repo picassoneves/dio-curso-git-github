@@ -12,6 +12,8 @@ Introduzir ao versionamento de código com Git e GitHub.
 
 ## Quem sou eu
 
+
+
 **Me chamo Victor Rafael e sou uma pessoa apaixonada por tecnologia e que ama aprender coisas novas.**
 
 ## Percurso
@@ -25,9 +27,9 @@ O meu percurso até aqui foi de aprender python com Gustavo Guanabara (em andame
 
 # Sendo realizado com esforço e dedicação por: 
 
-- [Github Picasso Neves (Victor Neves)](https://github.com/picassoneves)
+[![github](https://github.com/picassoneves)
 
-- [Instagram visite:](www.instagram.com/picassoneves)
+[![Instagram](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)](https://instagram.com/picassoneves)
 
 :shipit:
 
