@@ -10,9 +10,12 @@ Introduzir ao versionamento de código com Git e GitHub.
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
+## Quem sou eu
+
+**Me chamo Victor Rafael e sou uma pessoa apaixonada por tecnologia e que ama aprender coisas novas.**
 
 ## Percurso
-**O meu percurso até aqui foi de aprender python com Gustavo Guanabara (em andamento) e treinar com a dio para tornar-me um desenvolvedor backend. Estou lendo, buscando de tudo para realizar meu grande sonho de ser programador!**
+O meu percurso até aqui foi de aprender python com Gustavo Guanabara (em andamento) e treinar com a dio para tornar-me um desenvolvedor backend. Estou lendo, buscando de tudo para realizar meu grande sonho de ser programador!
 
 
 ## Referências e estudos
