@@ -29,7 +29,9 @@ O meu percurso até aqui foi de aprender python com Gustavo Guanabara (em andame
 
 [![github](https://github.com/picassoneves)
 
-[![Instagram](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)](https://instagram.com/picassoneves)
+<a href="https://instagram.com/picassoneves" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="10" />
+</a>
 
-:shipit:
+  :shipit:
 
