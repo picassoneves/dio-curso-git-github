@@ -12,7 +12,7 @@ Introduzir ao versionamento de código com Git e GitHub.
 
 ## Quem sou eu
 
-
+![Meu avatar]([https://link-da-sua-imagem.com/imagem.png](https://avatars.githubusercontent.com/u/32613656?s=400&u=ce1cfd5c799cfc9f2f2b46fb24a1807fd8756794&v=4))
 
 **Me chamo Victor Rafael e sou uma pessoa apaixonada por tecnologia e que ama aprender coisas novas.**
 
@@ -24,10 +24,6 @@ O meu percurso até aqui foi de aprender python com Gustavo Guanabara (em andame
 
 - [Fiz esse mini curso de git github também para aprender mais sobre o assunto!](https://www.youtube.com/watch?v=ts-H3W1uLMM)
 
-
-# Sendo realizado com esforço e dedicação por: 
-
-[!github](https://github.com/picassoneves)
 
 # Meu instagram e github!
 
