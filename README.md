@@ -29,8 +29,7 @@ O meu percurso até aqui foi de aprender python com Gustavo Guanabara (em andame
 
 [!github](https://github.com/picassoneves)
 
-# Meu instagram!
-# Meu github!
+# Meu instagram e github!
 
   <p align="center">
   <a href="https://github.com/picassoneves" target="_blank">
@@ -40,5 +39,3 @@ O meu percurso até aqui foi de aprender python com Gustavo Guanabara (em andame
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
   </a>
 </p>
-
- :shipit:
